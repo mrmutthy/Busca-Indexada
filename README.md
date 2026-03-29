@@ -4,9 +4,9 @@ Sistema de busca utilizando índices para materia de Paradgmas de Programação 
 
 ## 🚀 Tecnologias Utilizadas
 
-Linguagem - C#
-Framework - .NET SDK v 10.0
-Banco de Dados - SQLite
+- Linguagem - C# 
+- Framework - .NET SDK v 10.0 
+- Banco de Dados - SQLite 
 
 ## 🛠️ Como preparar o ambiente
 Antes de rodar a aplicação, você precisa garantir que as dependências e ferramentas estejam instaladas.
